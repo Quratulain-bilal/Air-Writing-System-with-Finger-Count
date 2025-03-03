@@ -1,6 +1,11 @@
-opencv-python==4.7.0.72
-mediapipe==0.10.21
-numpy==1.23.5
-flask==2.3.2
-streamlit==1.20.0
-python-3.11
+# Core libraries
+opencv-python>=4.7.0
+mediapipe>=0.10.21
+numpy>=1.23.5
+
+# Streamlit for web app
+streamlit>=1.20.0
+
+# Optional: For advanced features (if needed)
+matplotlib>=3.10.1
+scipy>=1.15.2
