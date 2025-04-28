@@ -41,7 +41,7 @@ Thumbs.db
 .env
 .flaskenv
 
-# Media files (if any)
+# Media files 
 *.mp4
 *.jpg
 *.png
